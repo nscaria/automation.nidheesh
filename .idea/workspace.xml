@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="30f58e12-af7c-4c82-8a08-338d5df54622" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iEAssKo0bEVivSc02Iog23roXo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="inlay.hints.JAVA" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\nidhi\IdeaProjects\automation.nidheesh\src\test\resources" />
+      <recent name="C:\Users\nidhi\IdeaProjects\automation.nidheesh\src\test\java" />
+      <recent name="C:\Users\nidhi\IdeaProjects\automation.nidheesh\src\test" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="CucumberRun" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="automation.nidheesh" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CucumberRun" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CucumberRun" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="30f58e12-af7c-4c82-8a08-338d5df54622" name="Default Changelist" comment="" />
+      <created>1601462586082</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601462586082</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="93" y="93" width="1095" height="495" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1601476603124">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1601476603124" />
+    <state x="421" y="97" key="FileChooserDialogImpl" timestamp="1601493803760">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="97" key="FileChooserDialogImpl/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1601477625977" />
+    <state x="421" y="97" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1601493803760" />
+    <state width="1237" height="204" key="GridCell.Tab.0.bottom" timestamp="1601489430822">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="222" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1601485559020" />
+    <state width="1237" height="204" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1601489430822" />
+    <state width="1237" height="204" key="GridCell.Tab.0.center" timestamp="1601489430822">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="222" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1601485559020" />
+    <state width="1237" height="204" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1601489430822" />
+    <state width="1237" height="204" key="GridCell.Tab.0.left" timestamp="1601489430822">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="222" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1601485559020" />
+    <state width="1237" height="204" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1601489430822" />
+    <state width="1237" height="204" key="GridCell.Tab.0.right" timestamp="1601489430822">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="222" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1601485559020" />
+    <state width="1237" height="204" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1601489430822" />
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom" timestamp="1601489430822">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1601489430822" />
+    <state width="1237" height="204" key="GridCell.Tab.1.center" timestamp="1601489430822">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1601489430822" />
+    <state width="1237" height="204" key="GridCell.Tab.1.left" timestamp="1601489430822">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1601489430822" />
+    <state width="1237" height="204" key="GridCell.Tab.1.right" timestamp="1601489430822">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1601489430822" />
+    <state x="315" y="51" key="NewModule_or_Project.wizard" timestamp="1601493768646">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="315" y="51" key="NewModule_or_Project.wizard/0.0.1280.680@0.0.1280.680" timestamp="1601493768646" />
+    <state x="121" y="0" key="SettingsEditor" timestamp="1601473615647">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="121" y="0" key="SettingsEditor/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1601473615647" />
+    <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1601462828842" />
+    <state x="348" y="174" key="com.intellij.ide.util.TipDialog" timestamp="1601493633867">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="348" y="174" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1601493633867" />
+    <state x="394" y="263" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog" timestamp="1601464403030">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="394" y="263" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog/0.0.1280.680@0.0.1280.680" timestamp="1601464403030" />
+  </component>
+</project>
