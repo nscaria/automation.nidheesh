@@ -1,7 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="30f58e12-af7c-4c82-8a08-338d5df54622" name="Default Changelist" comment="" />
+    <list default="true" id="30f58e12-af7c-4c82-8a08-338d5df54622" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/automation.nidheesh.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/immjSystems.automationdemo.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/immjSystemsManualTestCase.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/CucumberRun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CucumberRun.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/cucumberSteps/LoginStepDefs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/cucumberSteps/LoginStepDefs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-html-report/embedded0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-html-report/embedded1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-html-report/formatter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-html-report/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-html-report/jquery-3.4.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-html-report/report.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-html-report/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-reports/CucumberTestReport.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/CucumberRun.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Hooks.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/basket.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/cucumberSteps/BasketStepDefs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/cucumberSteps/LoginStepDefs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/cucumberSteps/SearchStepDefs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/driver/DriverHelper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/login.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pagebojects/BasketPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pagebojects/HomePage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pagebojects/ResultPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pagebojects/SearchPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/search.feature" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,26 +68,27 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
     </option>
   </component>
   <component name="ProjectId" id="1iEAssKo0bEVivSc02Iog23roXo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../automation_nidheesh_newTest" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="inlay.hints.JAVA" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -62,18 +113,7 @@
       </list>
     </recent_temporary>
   </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -87,36 +127,56 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="93" y="93" width="1095" height="495" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1601476603124">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="93" y="93" width="1095" height="495" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1601476603124" />
-    <state x="421" y="97" key="FileChooserDialogImpl" timestamp="1601493803760">
+    <state x="421" y="97" key="FileChooserDialogImpl" timestamp="1604327192315">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="97" key="FileChooserDialogImpl/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1601477625977" />
-    <state x="421" y="97" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1601493803760" />
-    <state width="1237" height="204" key="GridCell.Tab.0.bottom" timestamp="1601489430822">
+    <state x="421" y="97" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1604327192315" />
+    <state x="494" y="236" key="Github.ShareDialog" timestamp="1604328051622">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="222" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1601485559020" />
-    <state width="1237" height="204" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1601489430822" />
-    <state width="1237" height="204" key="GridCell.Tab.0.center" timestamp="1601489430822">
+    <state x="494" y="236" key="Github.ShareDialog/0.0.1280.680@0.0.1280.680" timestamp="1604328051622" />
+    <state width="1222" height="175" key="GridCell.Tab.0.bottom" timestamp="1604327399422">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="222" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1601485559020" />
-    <state width="1237" height="204" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1601489430822" />
-    <state width="1237" height="204" key="GridCell.Tab.0.left" timestamp="1601489430822">
+    <state width="1202" height="161" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1604269213422" />
+    <state width="1200" height="146" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1603794636177" />
+    <state width="1222" height="175" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1604327399422" />
+    <state width="1222" height="175" key="GridCell.Tab.0.center" timestamp="1604327399422">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="222" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1601485559020" />
-    <state width="1237" height="204" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1601489430822" />
-    <state width="1237" height="204" key="GridCell.Tab.0.right" timestamp="1601489430822">
+    <state width="1202" height="161" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1604269213422" />
+    <state width="1200" height="146" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1603794636177" />
+    <state width="1222" height="175" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1604327399422" />
+    <state width="1222" height="175" key="GridCell.Tab.0.left" timestamp="1604327399422">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="222" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1601485559020" />
-    <state width="1237" height="204" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1601489430822" />
+    <state width="1202" height="161" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1604269213422" />
+    <state width="1200" height="146" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1603794636177" />
+    <state width="1222" height="175" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1604327399422" />
+    <state width="1222" height="175" key="GridCell.Tab.0.right" timestamp="1604327399422">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1202" height="161" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1604269213422" />
+    <state width="1200" height="146" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1603794636177" />
+    <state width="1222" height="175" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1604327399422" />
     <state width="1237" height="204" key="GridCell.Tab.1.bottom" timestamp="1601489430822">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -137,15 +197,23 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="315" y="51" key="NewModule_or_Project.wizard/0.0.1280.680@0.0.1280.680" timestamp="1601493768646" />
-    <state x="121" y="0" key="SettingsEditor" timestamp="1601473615647">
+    <state x="121" y="0" key="SettingsEditor" timestamp="1603583713482">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="121" y="0" key="SettingsEditor/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1601473615647" />
-    <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1601462828842" />
+    <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1603583713482" />
     <state x="348" y="174" key="com.intellij.ide.util.TipDialog" timestamp="1601493633867">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="348" y="174" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1601493633867" />
+    <state x="346" y="73" width="587" height="534" key="find.popup" timestamp="1604326777029">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="346" y="73" width="587" height="534" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1604326777029" />
+    <state x="90" y="0" key="new project wizard" timestamp="1602624099150">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="90" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1602624099150" />
     <state x="394" y="263" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog" timestamp="1601464403030">
       <screen x="0" y="0" width="1280" height="680" />
     </state>

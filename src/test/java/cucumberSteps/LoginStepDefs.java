@@ -18,7 +18,8 @@ public class LoginStepDefs {
     public void customerIsOnAHomepage() {
         String actualHomepageUrl = homePage.homePageUrl();
         // verifying that the customer is on exact homepage
-        assertThat(actualHomepageUrl,endsWith(".com/index.php"));
+       assertThat(actualHomepageUrl,endsWith(".com/index.php"));
+
     }
 
     @When("user navigates to sign in page")
